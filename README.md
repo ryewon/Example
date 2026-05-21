@@ -1,17 +1,14 @@
 # Study Notes
 1. CSharp
-    - 변수
-        - 자료형
-        - 크기와 범위
-    - 연산자
-        - 이항
-        - 단항
-        - 삼항
+	1. 변수
+	1. 자료형
+	1. 크기와 범위
 2. Unity
-    - **Editor**
+    - Editor
         - Transform
+    - 3D Graphics
 3. Mathmatics
-    - Vector
-        - Position
-        - Direction
-        - Dot
+	- Vector
+    	- Position
+    	- Direction
+    	- Dot Product
