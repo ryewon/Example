@@ -11,4 +11,4 @@
 	- Vector
     	- Position
     	- Direction
-    	- Dot Product
+    	- Dot Product.
