@@ -4,6 +4,6 @@
     - short
     - ushort
     - byte
-    - '#FF000'sbyte
+    - sbyte
 - 실수형
 - 기타

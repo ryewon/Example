@@ -1,10 +1,17 @@
-# Example
-## Example2
-### Example3
-#### Example4
-##### Example5
-- 항목 구분1
-  - 수학 정리
-    - [내적 정리](./Math/Dot.md)
-- 항목 구분2
-- 항목 구분3
+# Study Notes
+1. CSharp
+    - 변수
+        - 자료형
+        - 크기와 범위
+    - 연산자
+        - 이항
+        - 단항
+        - 삼항
+2. Unity
+    - Editor
+        - Transform
+3. Mathmatics
+    - Vector
+        - Position
+        - Direction
+        - Dot
